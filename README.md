@@ -6,4 +6,5 @@ Simple Webshell is a python script to interact with your uploaded webshells as i
 
 `python simplewebshell.py <Webshell URL> options`
 
+![Alt text](/screenshot/usage.png)
 
