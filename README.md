@@ -4,6 +4,6 @@ Simple Webshell is a python script to interact with your uploaded webshells as i
 
 ### Usage
 
-`python webshell.py <Webshell URL> options`
+`python simplewebshell.py <Webshell URL> options`
 
 
