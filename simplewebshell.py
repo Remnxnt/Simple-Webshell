@@ -11,7 +11,7 @@ def parseArgs():
   parser.add_argument('url')
   parser.add_argument('-m', '--method', default='GET',
                       help='HTTP method to use (default: GET)')
-  parser.add_argument('-os', '--os', choices=['linux', 'windows'], default='linux',
+  parser.add_argument('-os', '--os', default='linux',
                       help='Operating system of webserver (default: linux)')
   
   args = parser.parse_args()
